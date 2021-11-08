@@ -20,7 +20,6 @@ const Banner = () => {
                     </div>
                     <div className="col-md-6">
                         <img src={bannerImg} alt="" className="img-fluid bg-light rounded-3" />
-
                     </div>
                 </div>
             </div>

@@ -7,3 +7,13 @@
 .banner-bg {
   background-color: #f5296d0a;
 }
+
+.pink-text {
+  color: #f5296dc0;
+}
+
+.card-hover:hover {
+  box-shadow: 5px 5px 50px rgb(207, 204, 204);
+  border-radius: 10px;
+  cursor: pointer;
+}

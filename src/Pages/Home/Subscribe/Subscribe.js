@@ -2,7 +2,7 @@ import React from 'react';
 
 const Subscribe = () => {
     return (
-        <div className="banner-bg text-center py-5 my-5">
+        <div className="banner-bg text-center py-5 mt-5">
             <div className="">
                 <h1 className="fw-bold">
                     Let us handle your
